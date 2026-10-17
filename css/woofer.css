@@ -1,0 +1,23 @@
+body {
+    background-color: lightblue;
+    color: darkslategray;
+    font-family: Arial, sans-serif;
+    margin: 30px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+img {
+    border: 2px solid darkblue;
+    max-width: 100%;
+}
+
+li {
+    margin: 12px;
+}
+
+a {
+    color: blue;
+}
